@@ -1,37 +1,37 @@
-# lecake
+# 项目名称：诺心蛋糕lecake
 
-#### 介绍
-诺心蛋糕
+#### 演示
+​	诺心蛋糕官网：http://wx01.lecake.com/h5/index.php
 
-#### 软件架构
-软件架构说明
+​	上线网址：
 
+​					后台管理系统：
 
-#### 安装教程
+​							测试帐号：
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+​					webapp： http://47.115.17.245:2222/home/index
 
-#### 使用说明
+​					git仓库地址：https://github.com/gzh52004/lecake
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 团队与分工
+​		负责人：黄映鑫，成员：周家辉，陈航，谭镇远	
 
-#### 参与贡献
+​	负责模块说明
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+​		黄映鑫：蛋糕列表页，蛋糕详情页
 
+​		周家辉：登录注册，个人中心页面
 
-#### 特技
+​		陈航：首页
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+​		谭镇远：后台管理系统
+
+#### 项目页面截图
+
+​				![](C:\Users\Administrator\Desktop\le\lecake\public\首页.png)
+
+![](C:\Users\Administrator\Desktop\le\lecake\public\列表页.png)
+
+![](C:\Users\Administrator\Desktop\le\lecake\public\个人中心.png)
+
+![](C:\Users\Administrator\Desktop\le\lecake\public\后台管理系统.png)

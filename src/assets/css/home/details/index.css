@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(245, 235, 235);
+}
+.bottom-nav{
+    width:100%;height:3rem;
+    background: #FFFFFF;
+    box-shadow:0 0px 10px #efefef;
+    position:fixed;
+    bottom:0px;
+    left:0px;z-index:10;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+.bottom-nav .home{
+    width: 20%;
+    height: 100%;
+    background-image:url("../../../../assets/images/home/main/main_nav.png");
+    background-size: 150%;
+    background-position:  -3.0rem -0.3rem;
+    background-repeat: no-repeat;
+}
+.bottom-nav .call{
+    width: 20%;
+    height: 100%;
+    background-image:url("../../../../assets/images/home/main/icons_5.png");
+    background-size: 800%;
+    background-position:  0.5rem -4.2rem;
+    background-repeat: no-repeat;
+}
+.bottom-nav .cart{
+    width: 20%;
+    height: 100%;
+    background-image:url("../../../../assets/images/home/main/main_nav.png");
+    background-size: 150%;
+    background-position:  -3rem -7.3rem;
+    background-repeat: no-repeat;
+}
+.bottom-nav .addCart{
+    width: 40%;
+    text-align: center;
+    font-weight: 600;
+    line-height: 3.75rem;
+    background-color: rgb(243, 98, 13);
+}
+.cakeName{   
+    padding: 0.625rem;
+    height: 13rem;
+    position: relative;
+    background-color: #fff;
+}
+.cakeName p{
+    line-height: 2rem;
+    text-align: center;
+}
+.cakeName i{
+    position: absolute;
+    right: 2rem;
+    top:1rem;
+    width: 2rem;
+    height: 2rem;
+    background-image:url("../../../../assets/images/home/main/icons_5.png");
+    background-size: 900%;
+    background-position:  0.0rem 0.0rem;
+}
+.vip{
+    padding: 0.1rem;
+    border-left: 0.125rem solid orangered;
+    background-color: #fafafa;
+    position: relative;
+}
+.vip span{
+    position: absolute;
+    right: 1.875rem;
+    top: 1.1rem;
+    color: rgb(170, 148, 25);
+    border-left: 0.0625rem solid rgb(170, 148, 25);
+}
+.vip h3{
+    margin: 0.3125rem;
+    color: rgb(170, 148, 25);
+}
+.vip h4{
+    margin: 0.3125rem;
+}
+.buy{
+    margin: 0.625rem 0 ;
+    padding: 0.4rem;
+    border-left: 0.125rem solid orangered;
+    position: relative;
+}
+.buy b{
+    position: absolute;
+    right: 1.875rem;
+}
+.gift{
+    position: relative;
+    color: black;
+    background-color: #FFFFFF;
+    margin: 0.9375rem 0 ;
+    padding: 0.625rem;
+}
+.gift span{
+    background-color: rgb(243, 98, 13);
+    color: white;
+}
+.gift i{
+    position: absolute;
+    right: 1.875rem;
+}

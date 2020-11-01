@@ -1,0 +1,26 @@
+.usNavFont {
+  color: #a38d6b;
+  font-size: 0.88rem;
+  text-align: center;
+  line-height: 2.88rem;
+  margin-top: 0.8rem;
+}
+
+.usImgWarp {
+  overflow: hidden;
+}
+
+.usFontWarp {
+  margin-left: 0.625rem;
+  margin-right: 0.625rem;
+}
+
+.usFont {
+  font-size: 0.875rem;
+  font-weight: bolder;
+}
+
+.usFonts {
+  font-size: 0.8125rem;
+  line-height: 1.15rem;
+}

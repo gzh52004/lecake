@@ -1,2 +1,106 @@
-.page{width:100%;height:100vh;}
-.goods-main{width:auto;height:auto;position:fixed;z-index:1;left:0px;top:50px;}
+
+.page {
+    width: 100%;
+    height: 100vh;
+}
+
+body {
+    color: #3e3e3e;
+}
+
+.goods-main {
+    width: auto;
+    height: auto;
+    position: fixed;
+    z-index: 1;
+    left: 0px;
+    top: 50px;
+}
+
+body :global(.am-wingblank-lg) {
+    margin-left: 0 !important;
+    margin-right: 0 !important
+}
+
+body :global(.page_2Vq2oT) {
+    height: 0;
+}
+
+
+body :global(.section_aha) {
+    width: 100%;
+    height: 233px;
+    /* padding-top: 59.46%; */
+    position: relative;
+    background: url(http://newimgcdn.lapetit.cn/h5/images/home/ahaPanelBg.jpg?03) no-repeat center;
+    background-size: 100% auto;
+}
+
+body :global(.inner) {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+
+}
+
+body :global(.foott) {
+    margin-bottom: 38px;
+}
+
+body :global(.content) {
+    position: absolute;
+    top: 30.8%;
+    left: 5.2%;
+    font-size: 0.14rem;
+}
+
+body :global(.btn_wrap) {
+    position: absolute;
+    left: 5.2%;
+    top: 65%;
+}
+
+body :global(.bg_aha_rights) {
+    width: 1.15rem;
+    position: absolute;
+    right: 10%;
+    bottom: 13%
+}
+
+body :global(.more) {
+    text-decoration: underline;
+    color: #cea461;
+}
+
+body :global(.content) {
+    position: absolute;
+    top: 30.8%;
+    left: 5.2%;
+    font-size: 0.8rem;
+}
+
+body :global(.btn) {
+    display: block;
+    height: 28px;
+    background: #cda366;
+    line-height: 28px;
+    padding: 0 0.8rem;
+    color: #ffffff;
+    font-size: 0.7rem;
+}
+
+body :global(.bg_aha_rights) {
+    width: 7.15rem;
+    position: absolute;
+    right: 10%;
+    bottom: 13%;
+}
+
+img,
+object,
+embed {
+    max-width: 100%;
+    vertical-align: top;
+}

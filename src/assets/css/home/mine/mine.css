@@ -1,0 +1,105 @@
+.avatarPic {
+  width: 5rem;
+  height: 5rem;
+  margin: 0 auto;
+  margin-top: 0.625rem;
+  text-align: center;
+}
+
+.crawl {
+  background-color: #e6e6e6;
+  height: 28.625rem;
+  padding-top: 0.625rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.order {
+  width: 22rem;
+  height: 6.25rem;
+  background-color: white;
+  margin: 0 auto;
+  border-radius: 0.1875rem;
+}
+
+.order .orderFont {
+  font-size: 0.75rem;
+  padding: 0.625rem;
+}
+
+.bgc img {
+  width: 22rem;
+  height: 3.125rem;
+  background-color: red;
+  margin-left: 0.8rem;
+  position: absolute;
+  top: 9.375rem;
+  margin-top: 0.325rem;
+}
+
+.serve {
+  width: 22rem;
+  height: 6.25rem;
+  background-color: white;
+  margin: 0 auto;
+  border-radius: 0.1875rem;
+  position: absolute;
+  top: 13.125rem;
+  margin-left: 0.8rem;
+}
+
+.serve .serveFont {
+  font-size: 0.75rem;
+  padding: 0.625rem;
+}
+
+.Btn {
+  margin-bottom: 1.875rem;
+}
+
+.userFont {
+  margin-left: 0.625rem;
+}
+
+.userLevel {
+  margin-left: 0.625rem;
+  font-size: 0.75rem;
+  display: inline-block;
+  width: 1.875rem;
+  height: 1.25rem;
+  border: 1px solid #000;
+  text-align: center;
+  background-color: #a38d6b;
+  color: white;
+}
+
+.avatarPics {
+  margin-left: 1.875rem;
+}
+
+.userBack {
+  display: inline-block;
+  margin-left: 4.25rem;
+}
+
+.userBacks {
+  display: inline-block;
+  margin-left: 1.875rem;
+}
+
+.BackFont {
+  margin-left: 3.5rem;
+  font-weight: bolder;
+}
+
+.BackFonts {
+  margin-left: 1.645rem;
+}
+.BackFontss {
+  margin-left: 2.845rem;
+  font-weight: bolder;
+}
+
+.Tops {
+  padding-top: 1.25rem;
+}

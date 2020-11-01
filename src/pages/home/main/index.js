@@ -20,7 +20,7 @@ class Index extends React.Component {
     componentDidMount() {
         this.setBottomNavStyle(this.props.location.pathname);
     }
-
+   
     UNSAFE_componentWillReceiveProps(nextProps, nextContext) {
         this.setBottomNavStyle(nextProps.location.pathname)
     }
