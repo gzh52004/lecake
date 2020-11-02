@@ -1,20 +1,15 @@
 # 项目名称：诺心蛋糕lecake
 
 #### 演示
-​	诺心蛋糕官网：http://wx01.lecake.com/h5/index.php
+​	* 诺心蛋糕官网：http://wx01.lecake.com/h5/index.php
 
-​	上线网址：
+​	* 上线网址：
 
-​					后台管理系统：
-
-​							测试帐号：
-
-​					webapp： http://47.115.17.245:2222/home/index
-
-​					git仓库地址：https://github.com/gzh52004/lecake
+​	*		webapp： http://47.115.17.245:2222/home/index
+​			git仓库地址：https://github.com/gzh52004/lecake
 
 #### 团队与分工
-​		负责人：黄映鑫，成员：周家辉，陈航，谭镇远	
+​		负责人：黄映鑫，成员：周家辉，陈航
 
 ​	负责模块说明
 
@@ -24,14 +19,11 @@
 
 ​		陈航：首页
 
-​		谭镇远：后台管理系统
 
 #### 项目页面截图
 
-​				![](C:\Users\Administrator\Desktop\le\lecake\public\首页.png)
+    ![](C:\Users\Administrator\Desktop\le\lecake\public\首页.png)
 
-![](C:\Users\Administrator\Desktop\le\lecake\public\列表页.png)
+    ![](C:\Users\Administrator\Desktop\le\lecake\public\列表页.png)
 
-![](C:\Users\Administrator\Desktop\le\lecake\public\个人中心.png)
-
-![](C:\Users\Administrator\Desktop\le\lecake\public\后台管理系统.png)
+    ![](C:\Users\Administrator\Desktop\le\lecake\public\个人中心.png)
